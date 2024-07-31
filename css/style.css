@@ -13,4 +13,16 @@ a{
 }
 ul{
     list-style: none;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.mike{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 8em;
 }
